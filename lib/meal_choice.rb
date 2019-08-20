@@ -1,3 +1,3 @@
-def meal_choice=()
-  puts "good choice"
+def meal_choice
+  puts "What a nutritious meal!"
 end
